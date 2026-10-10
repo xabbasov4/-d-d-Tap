@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ədəd tap oyunu/1.0.0": {
+        "runtime": {
+          "Ədəd tap oyunu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ədəd tap oyunu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

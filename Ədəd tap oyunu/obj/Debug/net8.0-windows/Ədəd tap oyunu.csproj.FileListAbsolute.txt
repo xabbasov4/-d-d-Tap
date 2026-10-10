@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Ədəd tap oyunu\Ədəd tap oyunu\bin\Debug\net8.0-windows\Ədəd tap oyunu.exe
+C:\Users\User\source\repos\Ədəd tap oyunu\Ədəd tap oyunu\bin\Debug\net8.0-windows\Ədəd tap oyunu.deps.json
+C:\Users\User\source\repos\Ədəd tap oyunu\Ədəd tap oyunu\bin\Debug\net8.0-windows\Ədəd tap oyunu.runtimeconfig.json
+C:\Users\User\source\repos\Ədəd tap oyunu\Ədəd tap oyunu\bin\Debug\net8.0-windows\Ədəd tap oyunu.dll
+C:\Users\User\source\repos\Ədəd tap oyunu\Ədəd tap oyunu\bin\Debug\net8.0-windows\Ədəd tap oyunu.pdb
+C:\Users\User\source\repos\Ədəd tap oyunu\Ədəd tap oyunu\obj\Debug\net8.0-windows\ƏdədTap.Form1.resources
+C:\Users\User\source\repos\Ədəd tap oyunu\Ədəd tap oyunu\obj\Debug\net8.0-windows\Ədəd tap oyunu.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Ədəd tap oyunu\Ədəd tap oyunu\obj\Debug\net8.0-windows\Ədəd tap oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Ədəd tap oyunu\Ədəd tap oyunu\obj\Debug\net8.0-windows\Ədəd tap oyunu.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Ədəd tap oyunu\Ədəd tap oyunu\obj\Debug\net8.0-windows\Ədəd tap oyunu.AssemblyInfo.cs
+C:\Users\User\source\repos\Ədəd tap oyunu\Ədəd tap oyunu\obj\Debug\net8.0-windows\Ədəd tap oyunu.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ədəd tap oyunu\Ədəd tap oyunu\obj\Debug\net8.0-windows\Ədəd tap oyunu.dll
+C:\Users\User\source\repos\Ədəd tap oyunu\Ədəd tap oyunu\obj\Debug\net8.0-windows\refint\Ədəd tap oyunu.dll
+C:\Users\User\source\repos\Ədəd tap oyunu\Ədəd tap oyunu\obj\Debug\net8.0-windows\Ədəd tap oyunu.pdb
+C:\Users\User\source\repos\Ədəd tap oyunu\Ədəd tap oyunu\obj\Debug\net8.0-windows\Ədəd tap oyunu.genruntimeconfig.cache
+C:\Users\User\source\repos\Ədəd tap oyunu\Ədəd tap oyunu\obj\Debug\net8.0-windows\ref\Ədəd tap oyunu.dll
